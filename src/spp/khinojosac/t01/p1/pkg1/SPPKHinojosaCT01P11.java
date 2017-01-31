@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Kevin Gerardo Hinojosa Castellanos   A01411383   IMT
 package spp.khinojosac.t01.p1.pkg1;
 import java.util.Scanner;
 
